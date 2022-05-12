@@ -107,6 +107,9 @@
               (c++-api-reference
                :name "C++ Reference"
                :url "https://en.cppreference.com/mwiki/index.php?search=%s")
+              (ruby-doc
+               :name "Ruby Docs"
+               :url "https://ruby-doc.org/search?keywords=%s")
               (wolfram-alpha
                :name "Wolfram Alpha"
                :url "https://www.wolframalpha.com/input/?i=%s")
